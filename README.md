@@ -1,8 +1,7 @@
 ﻿# 🛰 About
-A very clean external aimbot written as a YouTube tutorial.
+A very clean external aimbot 
 
-## 🌠 Video
-External aimbot tutorial [video](https://www.youtube.com/watch?v=Nl2PN7TvJZ4)
+
 
 ## 🌌 Setup
 - Clone the repo
@@ -12,4 +11,4 @@ External aimbot tutorial [video](https://www.youtube.com/watch?v=Nl2PN7TvJZ4)
 - Enjoy
 
 ## 🗿 Disclaimer
-I am not responsible for anything that happens when you use this software. Cheers.
+I am not responsible for anything that happens when you use this software.
